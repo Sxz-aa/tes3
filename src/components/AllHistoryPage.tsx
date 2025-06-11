@@ -422,7 +422,7 @@ tfoot td {
 }
 /* CSS文件 */
 .hash.green-highlight {
-color: #16a34a;
+color: #0978E9;
   cursor: pointer;
 }
 
