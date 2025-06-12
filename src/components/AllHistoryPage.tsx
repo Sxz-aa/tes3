@@ -479,7 +479,6 @@ button:disabled {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  // flex-wrap: wrap;
   background: #1A1A1A;
   color: #f1f1f1;
   height: 54px;
